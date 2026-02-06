@@ -1,2 +1,6 @@
-# hello-git
-나의 첫 Git 저장소 
+# Hello Git!
+
+Git & GitHub 연습용 저장소입니다.
+
+- 작성자: 이하늘
+- 날짜: 2026년 2월
